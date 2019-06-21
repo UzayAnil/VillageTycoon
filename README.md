@@ -1,5 +1,5 @@
 # VillageTycoon
-A Forager-like game made with Unity.
+A Forager-like game made with Unity using Scriptables Objects.
 
 
 You can play this game here:
