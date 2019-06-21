@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03347048a112f6f4fb68c89c2f559ebc, type: 3}
+  m_Name: building3_Farm
+  m_EditorClassIdentifier: 
+  buildingName: Farm
+  buildingDescription: You can get food here.
+  buildingCost: 60
+  buildingIcon: {fileID: 0}
+  buildingPrefab: {fileID: 4700143701876163558, guid: c72e26dee22c05846918ef18c5a1e933,
+    type: 3}
